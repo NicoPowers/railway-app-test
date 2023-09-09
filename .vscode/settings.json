@@ -1,0 +1,10 @@
+{
+	// #region Editor
+	"editor.codeActionsOnSave": {
+		"quickfix.biome": true,
+		"source.organizeImports.biome": true
+	},
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "biomejs.biome"
+	// #endregion
+}
